@@ -1,14 +1,17 @@
 # Simple-machine-learning-with-python
 
 Project mainly used to learn to code in python
+Project target is to make a music website that predicts the music a music a new user might like
 
+Data is made up and does not represent reality
 
 Project uses python virutal enviroment
-Data used for project is from
-https://www.kaggle.com/gregorut/videogamesales
 
 # python -m venv venv
-Project uses python packages: 
+
+
+Project uses python packages:
 
 Pandas
+
 # pip install pandas
