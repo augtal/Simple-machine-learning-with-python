@@ -10,8 +10,21 @@ Project uses python virutal enviroment
 # python -m venv venv
 
 
+
 Project uses python packages:
 
 Pandas
 
 # pip install pandas
+
+Scikit-learn
+
+# pip install scikit-learn
+
+Numpy
+
+# pip install numpy
+
+Matplotlib
+
+# pip install matplotlib
