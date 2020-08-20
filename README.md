@@ -1,7 +1,6 @@
 # Simple-machine-learning-with-python
 
 Project mainly used to learn to code in python
-Project target is to make a music website that predicts the music a music a new user might like
 
 Data is made up and does not represent reality
 
